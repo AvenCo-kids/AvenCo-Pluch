@@ -1,3 +1,4 @@
+
 #ifndef IINPUT_HPP_
 #define IINPUT_HPP_
 

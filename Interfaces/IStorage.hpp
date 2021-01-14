@@ -1,3 +1,4 @@
+
 #ifndef ISTORAGE_HPP_
 #define ISTORAGE_HPP_
 

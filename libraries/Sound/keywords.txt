@@ -1,0 +1,7 @@
+Sound               KEYWORD1
+soundStatus_e       KEYWORD1
+trackEndCallback    KEYWORD1
+getStatus           KEYWORD2
+setCallback         KEYWORD2
+start               KEYWORD2
+stop                KEYWORD2

@@ -1,0 +1,2 @@
+Input       KEYWORD1
+isTrigger   KEYWORD2

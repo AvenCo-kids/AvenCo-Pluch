@@ -1,0 +1,7 @@
+API					KEYWORD1
+startStoryCallback	KEYWORD1
+stopStoryCallback	KEYWORD1
+getStory			KEYWORD2
+getSound			KEYWORD2
+setOnStartStory		KEYWORD2
+setOnStopStory		KEYWORD2

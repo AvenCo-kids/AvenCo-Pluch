@@ -1,0 +1,11 @@
+Storage         KEYWORD1
+isStoryStored   KEYWORD2
+getStory        KEYWORD2
+getSoundPath    KEYWORD2
+getProgress     KEYWORD2
+saveStory       KEYWORD2
+saveSound       KEYWORD2
+saveProgress    KEYWORD2
+deleteStory     KEYWORD2
+deleteSound     KEYWORD2
+deleteProgress  KEYWORD2
